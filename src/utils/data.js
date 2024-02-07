@@ -32,7 +32,7 @@ export const SKILLS = [
         skills: [
             {skill: "Problem-solving", percentage: "80%"},
             {skill: "Collaboration", percentage: "80%"},
-            {skill: "Attention to Details", percentage: "675"},
+            {skill: "Attention to Details", percentage: "90%"},
         ],
     },
 ];
@@ -55,6 +55,7 @@ export const WORK_EXPERIENCE = [
         date: "July 2022 - May 2023",
         responsibilities: [
             "Organising and promoting courses.",
+            "Develop a schedule to assess training needs.",
             "Preparing teaching materials.",
             "Planning, preparing and researching lessons.",
             "Teaching IT staff to use various computer languages and specialist applications.",
